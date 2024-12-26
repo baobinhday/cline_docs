@@ -18,7 +18,7 @@
     3. Find the "Custom Instructions" field
     4. Copy and paste the instructions from the section below
 
-    [screenshot: custom-instructions-settings.png]
+<img width="345" alt="Screenshot 2024-12-26 at 11 22 20 AM" src="https://github.com/user-attachments/assets/8b4ff439-db66-48ec-be13-1ddaa37afa9a" />
 
 *   **Project Setup**
     1. Create an empty `cline_docs` folder in your project root (i.e. YOUR-PROJECT-FOLDER/cline_docs)
